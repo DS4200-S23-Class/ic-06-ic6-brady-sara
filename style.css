@@ -7,3 +7,15 @@ line {
 	stroke: darkblue;
 	stroke-width: 35;
 }
+
+.red {
+	stroke: red;
+}
+
+circle {
+	fill: mediumpurple;
+}
+
+.orange {
+	fill: orange;
+}
