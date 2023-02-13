@@ -1,0 +1,9 @@
+#frame {
+	width: 500px;
+	height: 500px;
+}
+
+line {
+	stroke: darkblue;
+	stroke-width: 35;
+}
